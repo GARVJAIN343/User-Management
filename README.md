@@ -6,9 +6,11 @@
 ![Screenshot (66)](https://user-images.githubusercontent.com/63156944/168963534-4e844924-3294-4373-b3af-da53ffd726da.png)
 
 # SCREENSHOT OF MOBILE SCREEN
-![Screenshot_2022-05-18-10-47-35-125_com android chrome](https://user-images.githubusercontent.com/63156944/168963615-c4b14064-fe47-4c18-a6a2-52ae8b60df25.jpg)
-![Screenshot_2022-05-18-10-47-22-205_com android chrome](https://user-images.githubusercontent.com/63156944/168963620-8c1584b7-53e7-45da-9167-6cb5c434706d.jpg)
-![Screenshot_2022-05-18-10-47-49-565_com android chrome](https://user-images.githubusercontent.com/63156944/168963622-162352e2-6636-4446-9776-1657817144d8.jpg)
+![Screenshot (67)](https://user-images.githubusercontent.com/63156944/168964158-0d6aee5c-8552-4207-9f9b-b4a17fe72131.png)
+![Screenshot (68)](https://user-images.githubusercontent.com/63156944/168964162-dd3fb9a3-4656-465c-8b43-e4bae2092ef0.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/63156944/168964163-4c0d87a0-6b27-4017-a033-aa5848583125.png)
+![Screenshot (70)](https://user-images.githubusercontent.com/63156944/168964166-4665b8b2-dded-4661-a7ad-c725e0aea2fb.png)
+
 
 
 # Getting Started with Create React App
